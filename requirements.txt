@@ -1,0 +1,2 @@
+DateTime==4.3
+selenium==3.141.0
