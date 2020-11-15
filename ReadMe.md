@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 ## 📑 Example of Using it 📑
 
-You always forget these birthdays dont you? ;-)
+You always forget these birthdays dont you? ;)
 
 Just login using the QR code and the Bot will do the rest.
 
